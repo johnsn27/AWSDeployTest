@@ -1,4 +1,4 @@
-service: <name-of-your-function>
+service: awsdeploytest
 provider:
   name: aws
   runtime: python3.7
